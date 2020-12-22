@@ -1,0 +1,2 @@
+token_tg = "1324852453:AAHe-RWS6R6hUztIgFFzgRkczYtI51jpLXA"
+token_dict = "1421616009:AAGYnRE9Zrrg7xbFLXMGZbpTbHb4l3FgHhU"
